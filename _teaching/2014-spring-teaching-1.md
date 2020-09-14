@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Clemson University, Automotive Engineering"
-date: 2019 & 2020
+date: 2019/01/01
 location: "Greenville, USA"
 ---
 
