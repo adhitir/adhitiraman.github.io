@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adhiti Raman Thothathri"
+title                    : "Adhiti Raman"
 title_separator          : "-"
-name                     : &name "Adhiti Raman Thothathri"
-description              : &description "Engineer in the streets, artist on the sheets (of paper)"
+name                     : &name "Adhiti Raman"
+description              : &description "Robotics Engineer and part-time artist"
 url                      : https://adhitir.github.io/adhitiraman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adhitir.github.io/adhitiraman.github.io/"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adhiti Raman"
+  name             : "Adhiti Raman Thothathri"
   avatar           : "Adhiti_action.PNG"
   bio              : "Engineer in the streets, artist on the sheets (of paper)"
   location         : "Greenville, SC"
